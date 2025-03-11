@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+nav {
+    background: rgb(7, 86, 190);
+    padding: 10px;
+}
+
+nav a {
+    color: rgb(98, 176, 131);
+    margin: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.content {
+    margin: 20px;
+}
